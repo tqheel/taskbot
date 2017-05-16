@@ -1,0 +1,16 @@
+{
+  "name": "taskbot",
+  "version": "1.0.0",
+  "description": "A bot for keeping track of tasks and serving them up based on defined schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Todd E. Qualls",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1",
+    "typescript": "^2.3.2"
+  }
+}
